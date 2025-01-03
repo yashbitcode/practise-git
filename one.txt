@@ -8,11 +8,7 @@ ggga
 
 disjdsij
 dsijsdijsd
-<<<<<<< HEAD
 ds
 
 this is yashbit
 this is anshbit
-=======
-ds
->>>>>>> parent of a08cd74 (yash commit)
